@@ -27,6 +27,8 @@ basic.forever(function () {
 ##step2
 次に「もしセンサーまえなら」の中に「うしろすすめ」をはめこんでみよう！
 
+するとどうなるかな？
+micro:bitにそうしんしてみよう！
 ```blocks
 basic.forever(function () {
     どうさ.まえすすめ()
@@ -35,10 +37,7 @@ basic.forever(function () {
     }
 })
 ```
-```tutorialhint
-するとどうなるかな？
-micro:bitにそうしんしてみよう！
-```
+
 
 ##step3
 まえにすすんでセンサーがはんのうしたらうしろにすすんだかな？？
