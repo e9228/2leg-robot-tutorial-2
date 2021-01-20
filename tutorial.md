@@ -34,6 +34,8 @@ basic.forever(function () {
         どうさ.うしろすすめ()
     }
 })
+```
+```tutorialhint
 するとどうなるかな？
 micro:bitにそうしんしてみよう！
 ```
